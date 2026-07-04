@@ -1,72 +1,92 @@
-# Luxe Bloom Salon
+# 💇 Luxe Bloom Salon
 
-A modern, elegant, and fully responsive salon website designed to showcase a premium beauty brand. This project was created as a portfolio demonstration to highlight clean design, smooth user experience, and mobile-first development for local businesses.
+A premium, modern, and fully responsive luxury salon website built to demonstrate the type of elegant websites I create for beauty businesses.
 
-## ✨ Features
+Designed with a refined aesthetic, soft color palette, premium typography, and a mobile-first approach to help salons showcase their services, build trust, and increase bookings.
 
-* Responsive design for desktop, tablet, and mobile
-* Modern hero section with clear call-to-action
-* Services section
-* Pricing section
-* Customer testimonials
-* Image gallery
-* Contact information and business hours
-* Google Maps integration ready
-* Fast-loading static website
-* Clean and organized code structure
-
-## 🛠️ Built With
-
-* HTML5
-* CSS3
-* JavaScript (Vanilla)
+---
 
 ## 🌐 Live Demo
 
-Add your deployed website link here after publishing.
+https://YOUR-NETLIFY-LINK.netlify.app
 
-Example:
+---
 
-`https://luxe-bloom.netlify.app`
+## ✨ Preview
 
-## 📸 Screenshots
+### Homepage
 
-Add screenshots of the homepage and other sections here after deployment.
+![Homepage](images/homepage-desktop.png)
 
-## 🎯 Purpose
+### Services
 
-This website was created as a portfolio project demonstrating the type of modern, high-quality websites I build for salons, beauty studios, spas, and other local businesses.
+![Services](images/services.png)
 
-## 📁 Project Structure
+### Lookbook
 
-```text
+![Lookbook](images/gallery.png)
+
+### Reviews
+
+![Reviews](images/reviews.png)
+
+### Booking
+
+![Booking](images/booking.png)
+
+---
+
+## ✨ Features
+
+- 📱 Fully responsive design
+- 🎨 Luxury salon branding
+- 💇 Elegant services section
+- 🖼️ Modern lookbook/gallery
+- ⭐ Client testimonials
+- 📅 Booking call-to-action
+- 📍 Contact & location section
+- ⚡ Fast-loading static website
+- ♿ Clean, accessible layout
+
+---
+
+## 🛠 Built With
+
+- HTML5
+- CSS3
+- JavaScript
+
+---
+
+## 📂 Project Structure
+
+```
+luxe-bloom/
+│
 ├── index.html
 ├── style.css
-├── script.js
-├── assets/
-│   ├── images/
-│   └── icons/
-└── README.md
+├── favicon.png
+├── favicon-32.png
+├── apple-touch-icon.png
+├── og-image.png
+├── README.md
+└── images/
+    ├── homepage-desktop.png
+    ├── services.png
+    ├── gallery.png
+    ├── reviews.png
+    └── booking.png
 ```
 
-## 📱 Responsive Design
+---
 
-The website is optimized for:
+## 🎯 Project Goal
 
-* Desktop
-* Laptop
-* Tablet
-* Mobile devices
+This project was created as a portfolio demonstration to showcase how a modern salon website can present services, build trust, and convert visitors into booked clients.
 
-## 🚀 Future Improvements
+The design emphasizes elegant branding, clean layouts, responsive performance, and a seamless user experience.
 
-* Online appointment booking
-* CMS integration
-* Dark mode
-* Animated gallery
-* SEO enhancements
-* Accessibility improvements
-* Performance optimization
+---
 
 ## 📄 License
 
