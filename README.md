@@ -1,14 +1,14 @@
 # 💇 Luxe Bloom Salon
 
-A premium, modern, and fully responsive luxury salon website built to demonstrate the type of elegant websites I create for beauty businesses.
+A premium, elegant, and fully responsive salon website built to showcase the type of modern websites I create for beauty businesses.
 
-Designed with a refined aesthetic, soft color palette, premium typography, and a mobile-first approach to help salons showcase their services, build trust, and increase bookings.
+Designed with luxury branding, refined typography, soft color palettes, and a mobile-first approach to help salons attract new clients, showcase their services, and increase bookings.
 
 ---
 
 ## 🌐 Live Demo
 
-https://YOUR-NETLIFY-LINK.netlify.app
+https://luxe-bloom-demo.netlify.app/
 
 ---
 
@@ -30,7 +30,7 @@ https://YOUR-NETLIFY-LINK.netlify.app
 
 ![Reviews](images/reviews.png)
 
-### Booking
+### Booking & Contact
 
 ![Booking](images/booking.png)
 
@@ -39,14 +39,15 @@ https://YOUR-NETLIFY-LINK.netlify.app
 ## ✨ Features
 
 - 📱 Fully responsive design
-- 🎨 Luxury salon branding
-- 💇 Elegant services section
-- 🖼️ Modern lookbook/gallery
-- ⭐ Client testimonials
-- 📅 Booking call-to-action
-- 📍 Contact & location section
+- 💇 Elegant luxury salon branding
+- 🎨 Premium typography and soft color palette
+- 💄 Service pricing cards
+- 📸 Lookbook / gallery section
+- ⭐ Customer testimonials
+- 📅 Clear booking call-to-actions
+- 📍 Contact & business information
 - ⚡ Fast-loading static website
-- ♿ Clean, accessible layout
+- ♿ Clean and accessible layout
 
 ---
 
@@ -60,7 +61,7 @@ https://YOUR-NETLIFY-LINK.netlify.app
 
 ## 📂 Project Structure
 
-```
+```text
 luxe-bloom/
 │
 ├── index.html
@@ -82,12 +83,24 @@ luxe-bloom/
 
 ## 🎯 Project Goal
 
-This project was created as a portfolio demonstration to showcase how a modern salon website can present services, build trust, and convert visitors into booked clients.
+This project was created as a portfolio demonstration to showcase how a modern salon website can present services, highlight transformations, build trust through client reviews, and convert visitors into booked appointments.
 
-The design emphasizes elegant branding, clean layouts, responsive performance, and a seamless user experience.
+The design focuses on luxury aesthetics, smooth user experience, responsive layouts, and practical business functionality for local salons.
+
+---
+
+## 🚀 Future Improvements
+
+- Online appointment booking integration
+- Interactive service filtering
+- Before & after gallery
+- Instagram feed integration
+- Google Maps embed
+- Contact form backend
+- CMS support for salon owners
 
 ---
 
 ## 📄 License
 
-This project is intended for portfolio and demonstration purposes.
+This project was created for portfolio and demonstration purposes.
